@@ -164,10 +164,14 @@ This preprint is available at:
 <div style="font-family: sans-serif; line-height: 1.6; max-width: 600px; border: 1px solid #ccc; padding: 1em; border-radius: 8px;">
   <h2 style="margin-top: 0;">Citation</h2>
   <p>The preprint is available at:</p>
-  <p><strong>DOI:</strong> <a href="https://doi.org/10.1101/2025.06.03.657701" target="_blank">10.1101/2025.06.03.657701</a></p>
-  <img src="img/qr_img.png" alt="DOI QR Code" style="max-width: 200px; border: 1px solid #eee; border-radius: 4px; display: block; margin-top: 1em;">
+  <div style="display: flex; align-items: center; gap: 1em;">
+    <div>
+      <strong>DOI:</strong> 
+      <a href="https://doi.org/10.1101/2025.06.03.657701" target="_blank">10.1101/2025.06.03.657701</a>
+    </div>
+    <img src="img/qr_img.png" alt="DOI QR Code" style="width: 80px; height: auto; border: 1px solid #eee; border-radius: 4px;">
+  </div>
 </div>
-
 ---
 
 ## License
