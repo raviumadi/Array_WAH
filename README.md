@@ -160,9 +160,7 @@ This toolkit was developed for the manuscript:
 > **Widefield Acoustics Heuristic: Advancing Microphone Array Design for Accurate Spatial Tracking of Echolocating Bats**  
 
 <div style="font-family: sans-serif; line-height: 1.6; max-width: 600px; border: 1px solid #ccc; padding: 1em; border-radius: 8px;">
-  <h2 style="margin-top: 0;">Citation</h2>
   <p>The preprint is available at:</p>
-
   <div style="display: flex; align-items: center; flex-wrap: wrap; gap: 1em;">
     <div style="flex: 1 1 300px;">
       <strong>DOI:</strong> 
