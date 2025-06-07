@@ -168,7 +168,6 @@ This toolkit was developed for the manuscript:
       <strong>DOI:</strong> 
       <a href="https://doi.org/10.1101/2025.06.03.657701" target="_blank">10.1101/2025.06.03.657701</a>
     </div>
-    
     <div style="flex: 0 0 auto;">
       <img src="img/qr_img.png" alt="DOI QR Code" style="width: 150px; height: auto; border: 1px solid #eee; border-radius: 4px;">
     </div>
