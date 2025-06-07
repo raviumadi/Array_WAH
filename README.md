@@ -169,6 +169,7 @@ This toolkit was developed for the manuscript:
     <img src="img/qr_img.png" alt="DOI QR Code" style="width: 150px; height: auto; border: 1px solid #eee; border-radius: 4px;">
   </div>
 </div>
+
 ---
 
 ## License
