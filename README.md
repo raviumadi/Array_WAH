@@ -153,28 +153,6 @@ matlab.addons.install('toolboxName.mltbx')
 
 ---
 
-##  Cite This Work
-
-This toolkit was developed for the manuscript:
-
-> **Widefield Acoustics Heuristic: Advancing Microphone Array Design for Accurate Spatial Tracking of Echolocating Bats**  
-
-<div style="font-family: sans-serif; line-height: 1.6; max-width: 600px; border: 1px solid #ccc; padding: 1em; border-radius: 8px;">
-  <p>The preprint is available at:</p>
-  <p>
-    <strong>DOI:</strong>
-    <a href="https://doi.org/10.1101/2025.06.03.657701" target="_blank">10.1101/2025.06.03.657701</a>
-  </p>
-  <div style="text-align: center; margin-top: 1em;">
-    <img src="img/qr_img.png" alt="DOI QR Code" style="width: 150px; height: auto; border: 1px solid #eee; border-radius: 4px;">
-  </div>
-</div>
-
-**Cite this toolkit**
-
-> *Ravi Umadi. (2025). raviumadi/Array_WAH: First Release (V1.0.0). Zenodo. https://doi.org/10.5281/zenodo.15691372*
----
-
 ## License
 
 This project is licensed under the **Creative Commons Attribution-NonCommercial-ShareAlike 4.0** license ([CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)).
