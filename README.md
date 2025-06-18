@@ -170,6 +170,9 @@ This toolkit was developed for the manuscript:
   </div>
 </div>
 
+**Cite this toolkit**
+
+> *Ravi Umadi. (2025). raviumadi/Array_WAH: First Release (V1.0.0). Zenodo. https://doi.org/10.5281/zenodo.15691372*
 ---
 
 ## License
