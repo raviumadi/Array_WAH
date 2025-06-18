@@ -4,9 +4,22 @@
 **Affiliation**: Technical University of Munich
 **License**: [CC BY-NC-SA 4.0](LICENSE.md)
 
----
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.15691372.svg)](https://doi.org/10.5281/zenodo.15691372)
 
-## 🔍 Overview
+##  Cite This Toolkit
+
+This toolkit was developed for the manuscript:  
+**Widefield Acoustics Heuristic: Advancing Microphone Array Design for Accurate Spatial Tracking of Echolocating Bats**  
+Preprint: [https://doi.org/10.1101/2025.06.03.657701](https://doi.org/10.1101/2025.06.03.657701)
+
+If you use this toolkit, please cite:
+
+> **Ravi Umadi**. (2025). *raviumadi/Array_WAH: First Release (V1.0.0)*. Zenodo.  
+> [https://doi.org/10.5281/zenodo.15691372](https://doi.org/10.5281/zenodo.15691372)
+>
+> 
+---
+## Overview
 
 **Array WAH** is a MATLAB-based simulation and analysis toolkit designed for designing, simulating, and benchmarking 3D microphone array geometries for precise acoustic localisation of ultrasonic bat calls.
 
@@ -18,7 +31,7 @@ It supports:
 - 3D grid sweep error mapping
 - Statistical and visual analyses of localisation performance
 
-The toolkit supports multiple array geometries including:
+The toolkit supports multiple array geometries, including:
 
 - Tetrahedron
 - Planar Square
